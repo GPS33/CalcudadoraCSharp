@@ -39,7 +39,7 @@ O código-fonte completo está disponível neste repositório.
 Para visualizar, estudar ou modificar a implementação, basta clonar o projeto:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/GPS33/CalcudadoraCSharp.git
 ```
 
 ### Como executar pelo Visual Studio
