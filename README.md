@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como exercício prático de programação, com foc
 
 ## Download
 
-**[Baixar Calculadora Windows x64](sha256:f410a4e3cad26d6c026349495aab85a31aad678affacf78ab29c4987ceea7115)**
+**[Baixar Calculadora Windows x64](https://github.com/GPS33/CalcudadoraCSharp/releases/download/v1.0.0/Calculadora-v1.0.0.zip)**
 
 A versão disponibilizada é independente do runtime .NET, não exigindo uma instalação separada do .NET.
 
